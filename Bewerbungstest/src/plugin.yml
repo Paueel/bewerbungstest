@@ -1,0 +1,7 @@
+name: Bewerbungstest
+version: 1.0
+main: pauel.bewerbungstest.Main
+commands:
+     worldtp:
+          description: Teleportiere dich in eine andere Welt!
+          usage: Benutze /worldtp
